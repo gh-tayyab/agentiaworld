@@ -1,4 +1,3 @@
-import { Image } from "lucide-react";
 import React from "react";
 
 const Footer = () => {
